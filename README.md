@@ -16,9 +16,9 @@ References to discussions and so far produced documents:
 
 ### Procedure and Time Line
 
-1. Discussion will start right now and will be moderated by @krischer. Anyone is invited to join. A separate issue is available for each discussion point.
+1. Discussion will start right now and will be moderated by [@krischer](https://github.com/krischer/). Anyone is invited to join. A separate issue is available for each discussion point.
 
-2. **Voting on each issue is expected to start January 29th and end January 31st** (earlier votes will of course be counted). They will be tallied up by @krischer on February 1st. Please register to vote in [#1](/../../issues/1). You can vote either by reacting with :+1: (YES) or :-1: (NO) to the head post in an issue or by explicitly stating your support for/contra in a comment in an issue. A transparent vote summary for each issue (including names) will be provided by @krischer after voting has concluded. @krischer will not vote but break a tie, if necessary.
+2. **Voting on each issue is expected to start January 29th and end January 31st** (earlier votes will of course be counted). They will be tallied up by [@krischer](https://github.com/krischer/) on February 1st. Please register to vote in [#1](/../../issues/1). You can vote either by reacting with :+1: (YES) or :-1: (NO) to the head post in an issue or by explicitly stating your support for/contra in a comment in an issue. A transparent vote summary for each issue (including names) will be provided by [@krischer](https://github.com/krischer/) after voting has concluded. [@krischer](https://github.com/krischer/) will not vote but break a tie, if necessary.
 
 ## Technical Evaluation
 
