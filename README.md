@@ -10,7 +10,7 @@ This GitHub repository, and especially its issues, will be used for step 2 of th
 1. confirm that each requirement is technically feasible and
 1. discuss technical approaches for each requirement, voting to identify the consensus for preference of approach.
 
-**Multiple possible technical solutions for some requirements are expected. The outcome of this stage will be a clear yes/no for acccepting each requirement as technically feasible and identification of a consensus approach for each.  Combinging the results of this stage to form full implmentation specification proposals for step 3 may be done by any interested parties.**
+**Multiple possible technical solutions for some requirements are expected. The outcome of this stage will be a clear yes/no for acccepting each requirement as technically feasible and identification of a consensus approach for each.  Combining the results of this stage to form full implementation specification proposals for step 3 may be done by any interested parties.**
 
 References to discussions and so far produced documents:
 
@@ -22,7 +22,7 @@ References to discussions and so far produced documents:
 
 1. Discussion will start right now and will be moderated by [@krischer](https://github.com/krischer/). Anyone is invited to join. A separate issue is available for each discussion point.
 
-2. **Discussion on each issue is expected to be finished by January 29th and voting will end January 31st**. The votes will be tallied up by [@krischer](https://github.com/krischer/) on February 1st. Please register to vote in [#1](/../../issues/1). You can vote either by reacting with :+1: (YES) or :-1: (NO) to the head post in an issue or by explicitly stating your support for/contra in a comment in an issue. A transparent vote summary for each issue (including names) will be provided by [@krischer](https://github.com/krischer/) after voting has concluded. [@krischer](https://github.com/krischer/) will not vote but break a tie, if necessary.
+2. **Discussion on each issue is expected to be finished by January 29th and voting will end January 31st**. The votes will be tallied up by [@krischer](https://github.com/krischer/) on February 1st. Please register to vote (and state which institution you represent) in [#1](/../../issues/1). You can vote either by reacting with :+1: (YES) or :-1: (NO) to the head post in an issue or by explicitly stating your support for/contra in a comment in an issue. A transparent vote summary for each issue (including institutions) will be provided by [@krischer](https://github.com/krischer/) after voting has concluded. [@krischer](https://github.com/krischer/) will not vote but break a tie, if necessary.
 
 ## Technical Evaluation
 
@@ -30,7 +30,7 @@ The discussion will be broken up in a number of issues:
 
 ### Administrative Issues:
 
-* **[#1](/../../issues/1):** Register to vote by posting to this issue. It will also be used to flesh out who has the right to vote, if necessary.
+* **[#1](/../../issues/1):** Register to vote by posting to this issue.
 * **[#2](/../../issues/2):** Discuss anything related to this readme here.
 * **[#3](/../../issues/3):** Misc discussions. Please don't open arbitrary new issues but discuss generic things here. A new issue will be opened in case it is deemed necessary.
 
