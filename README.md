@@ -6,7 +6,7 @@ This GitHub repository, and especially its issues, will be used for stage 2 of t
 * **Stage 2**: Technical evaluation of these requirements.
 * **Stage 3**: Technical discussion targeting selection of the best solution.
 
-**The goal of stage 2 is to evaluate the technical feasibility of the requirements agreed on in stage 1 and vote on which requirement are feasible and will be included in the new format. Multiple possible technical solutions for some requirements are expected and will be sorted out in stage 3.**
+**The goal of stage 2 is to evaluate the technical feasibility of the requirements agreed on in stage 1 and vote on which requirements are feasible and will be included in the new format. Multiple possible technical solutions for some requirements are expected and will be sorted out in stage 3. The outcome of this stage will be a clear yes/no for each requirement heading into stage 3.**
 
 References to discussions and so far produced documents:
 
