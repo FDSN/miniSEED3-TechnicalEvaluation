@@ -1,12 +1,16 @@
-# Technical Evaluation for the next generation of MiniSEED
+# Technical Evaluation for the next generation of miniSEED
 
-This GitHub repository, and especially its issues, will be used for stage 2 of the design of the next generation MiniSEED format. The three stages of its design are:
+This GitHub repository, and especially its issues, will be used for step 2 of the design of the next generation miniSEED format. The three stages, [previously identified](http://www.fdsn.org/message-center/thread/514/#m-882) of its design are:
 
-* **Stage 1**: Community agreement on the actual basic requirements for the next generation MiniSEED.
-* **Stage 2**: Technical evaluation of these requirements.
-* **Stage 3**: Technical discussion targeting selection of the best solution.
+* **Step 1**: Community agreement on the basic requirements for the next generation miniSEED.
+* **Step 2**: Technical evaluation of these requirements.
+* **Step 3**: Technical discussion targeting selection of the best solution.
 
-**The goal of stage 2 is to evaluate the technical feasibility of the requirements agreed on in stage 1 and vote on which requirements are feasible and will be included in the new format. Multiple possible technical solutions for some requirements are expected and will be sorted out in stage 3. The outcome of this stage will be a clear yes/no for each requirement heading into stage 3.**
+**The goal of step 2 is to evaluate the [requirements agreed on in stage 1](https://docs.google.com/document/d/1ymAe9v1rUuucpY7ai5ilKsD7V1ejwt6GxQQmJ5IevDI/edit?ts=5a2a921c#) and** 
+1. confirm that each requirement is technically feasible and
+1. discuss technical approaches for each requirement, voting to identify the consensus for preference of approach.
+
+**Multiple possible technical solutions for some requirements are expected. The outcome of this stage will be a clear yes/no for acccepting each requirement as technically feasible and identification of a consensus approach for each.  Combinging the results of this stage to form full implmentation specification proposals for step 3 may be done by any interested parties.**
 
 References to discussions and so far produced documents:
 
@@ -35,7 +39,7 @@ The discussion will be broken up in a number of issues:
 * **[#4](/../../issues/4):** A new method of identifying a time series.
 * **[#5](/../../issues/5):** The new format must be fully self-defining.
 * **[#6](/../../issues/6):** Specify absolute time, including leap seconds, using an existing standard.
-* **[#7](/../../issues/7):** Conversion tools must perform conversion from MiniSEED 2 *without* loss of important information.
+* **[#7](/../../issues/7):** Conversion tools must perform conversion from miniSEED 2 *without* loss of important information.
 * **[#8](/../../issues/8):** Joint evolution of StationXML.
 * **[#9](/../../issues/9):** Proper documentation, best practices.
 
@@ -49,7 +53,7 @@ The discussion will be broken up in a number of issues:
 * **[#15](/../../issues/15):** Support variable length records for efficiency and flexibility (e.g. real time streaming with lower latency).
 * **[#16](/../../issues/16):** Provide nanosecond-timing resolution in both record start time and sample rate/period.
 * **[#17](/../../issues/17):** Provide support for high sampling rates.
-* Simplification/reorganization of MiniSEED:
+* Simplification/reorganization of miniSEED:
 	* **[#18](/../../issues/18):** Move key, selected blockette details (e.g. actual sample rate, data payload encoding) into fixed header.
 	* **[#19](/../../issues/19):** Fix byte order (e.g. little endian) of binary portions of header; define byte order of payload via encoding values.
 	* **[#20](/../../issues/20):** Remove blockette support.
