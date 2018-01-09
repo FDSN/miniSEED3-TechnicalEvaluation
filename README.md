@@ -33,6 +33,7 @@ The discussion will be broken up in a number of issues:
 * **[#1](/../../issues/1):** Register to vote by posting to this issue.
 * **[#2](/../../issues/2):** Discuss anything related to this readme here.
 * **[#3](/../../issues/3):** Misc discussions. Please don't open arbitrary new issues but discuss generic things here. A new issue will be opened in case it is deemed necessary.
+* **[#26](/../../issues/26):** Discussion about the name of the new format.
 
 ### Basic Requirements:
 
