@@ -63,3 +63,12 @@ The discussion will be broken up in a number of issues:
 	* **[#23](/../../issues/23):** Combine and drop unused / underspecified bit flags.
 	* **[#24](/../../issues/24):** Eliminate sequence number as a required, always-present field and retain as an optional field present when needed.
 * **[#25](/../../issues/25):** Alongside with the new format, a protocol for (near) real time data exchange needs to be specified.
+
+### Issues Discussing the Expansion and Conventions of the FDSN Identifiers
+
+Assuming the FDSN identifiers are used (discuss in **[#4](/../../issues/4)**) how should they be expanded and what conventions should be applied? Limitations in the current identifiers are becoming a pressing issues and are a (or the) main motivator for discussing a new data format in the first place.
+
+* **[#27](/../../issues/27):** Expansion and convention of the network code
+* **[#28](/../../issues/28):** Expansion of the station code
+* **[#29](/../../issues/29):** Expansion and convention of the location code
+* **[#30](/../../issues/30):** Expansion and convention of the channel code
