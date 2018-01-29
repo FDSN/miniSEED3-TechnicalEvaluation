@@ -22,7 +22,7 @@ References to discussions and so far produced documents:
 
 1. Discussion will start right now and will be moderated by [@krischer](https://github.com/krischer/). Anyone is invited to join. A separate issue is available for each discussion point.
 
-2. **Discussion on each issue is expected to be finished by January 29th and voting will end January 31st**. The votes will be tallied up by [@krischer](https://github.com/krischer/) on February 1st. Please register to vote (and state which institution you represent) in [#1](/../../issues/1). You can vote either by reacting with :+1: (YES) or :-1: (NO) to the head post in an issue or by explicitly stating your support for/contra in a comment in an issue. A transparent vote summary for each issue (including institutions) will be provided by [@krischer](https://github.com/krischer/) after voting has concluded. [@krischer](https://github.com/krischer/) will not vote but break a tie, if necessary.
+2. **Discussion on each issue is expected to be finished by January 29th and voting will end Feburary 2st**. The votes will be tallied up by [@krischer](https://github.com/krischer/) after February 2nd. Please register to vote (and state which institution you represent) in [#1](/../../issues/1). You can vote ~~either by reacting with :+1: (YES) or :-1: (NO) to the head post in an issue or~~ [*please use comments - many issues have been broken down in more than one question*] by explicitly stating your support for/contra in a comment in an issue. A transparent vote summary for each issue (including institutions) will be provided by [@krischer](https://github.com/krischer/) after voting has concluded. [@krischer](https://github.com/krischer/) will not vote but break a tie, if necessary.
 
 ## Technical Evaluation
 
@@ -67,6 +67,8 @@ The discussion will be broken up in a number of issues:
 ### Issues Discussing the Expansion and Conventions of the FDSN Identifiers
 
 Assuming the FDSN identifiers are used (discuss in **[#4](/../../issues/4)**) how should they be expanded and what conventions should be applied? Limitations in the current identifiers are becoming a pressing issues and are a (or the) main motivator for discussing a new data format in the first place.
+
+**These are not being voted on right now as they are a broader issue.**
 
 * **[#27](/../../issues/27):** Expansion and convention of the network code
 * **[#28](/../../issues/28):** Expansion of the station code
