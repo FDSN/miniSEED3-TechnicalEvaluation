@@ -1,5 +1,21 @@
 # Technical Evaluation for the next generation of miniSEED
 
+## Final Report
+
+The final report is available here: https://github.com/FDSN/miniSEED3-TechnicalEvaluation/blob/master/report.md
+
+It consists of a short summary of every issue and the final tally of the votes. This repository additionally sparked a few discussion with broader implications about potential changes to the FDSN identifiers:
+
+* **[#27](/../../issues/27):** Expansion and convention of the network code
+* **[#28](/../../issues/28):** Expansion of the station code
+* **[#29](/../../issues/29):** Expansion and convention of the location code
+* **[#30](/../../issues/30):** Expansion and convention of the channel code
+
+
+
+---
+---
+
 This GitHub repository, and especially its issues, will be used for step 2 of the design of the next generation miniSEED format. The three stages, [previously identified](http://www.fdsn.org/message-center/thread/514/#m-882) of its design are:
 
 * **Step 1**: Community agreement on the basic requirements for the next generation miniSEED.
